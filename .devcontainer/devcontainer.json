@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/dotnet
 {
-	"name": "C# (.NET)",
+	"name": "C# Jupyter Notebooks",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"build": {"dockerfile": "Dockerfile"},
 	"features": {
@@ -18,13 +18,6 @@
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	"forwardPorts": [5283, 7233],
-	"portsAttributes": {
-			"7233": {
-				"protocol": "https"
-			}
-	},
 
 	// Configure tool-specific properties.
     "customizations": {
