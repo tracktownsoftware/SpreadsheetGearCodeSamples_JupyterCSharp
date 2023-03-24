@@ -1,4 +1,4 @@
-# Options to view and run SpreadsheetGear sample code in Visual Studio Code: #
+# Options to view and run SpreadsheetGear sample code in Visual Studio Code #
 
 ## Open a Github Codespace in a browser based VSCode editor (no install required) ##
 1. [Github Codespaces Overview](https://docs.github.com/en/codespaces/overview)
