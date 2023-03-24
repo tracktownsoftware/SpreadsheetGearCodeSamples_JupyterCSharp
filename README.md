@@ -12,8 +12,8 @@ See [SpreadsheetGear code samples for Python in Jupyter Notebooks](https://githu
 *   **[SpreadsheetGear Engine for .NET](https://www.nuget.org/packages/SpreadsheetGear/9.1.44-beta)** - A Nuget package that is the primary SpreadsheetGear library and provides a core set of APIs to read, write, manipulate and calculate workbooks, build charts, format worksheets and cells, and more. Learn more about SpreadsheetGear products on its [Features Page](https://www.spreadsheetgear.com/Products/Features) and [Comparison Page](https://www.spreadsheetgear.com/Products/Compare).
 
 ## Options to view and run code samples in Visual Studio Code ##
-- Open a Github Codespace in a browser based Visual Studio Code editor (no installation required)
-- Open a Github Codespace in your local Visual Studio Code editor (no other installation required) 
-- Clone this repo and use its DevContainer configuration in your local Visual Studio Code editor (you need Docker Desktop to host the DevContainer)
-- Clone this repo and in use your local Visual Studio Code editor with all requirements installed
+- Open a Github Codespace in a browser based VSCode editor (No install required)
+- Open a Github Codespace in your local VSCode editor (No other install required) 
+- Clone this repo and use its DevContainer configuration in your local VSCode editor (Docker Desktop install required to host the DevContainer)
+- Clone this repo and open in your local VSCode editor (All sample code requirements need to be installed)
 
