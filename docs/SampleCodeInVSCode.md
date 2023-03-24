@@ -2,10 +2,9 @@
 
 ## Open a Github Codespace in a browser based VSCode editor (no install required) ##
 1. [Github Codespaces Overview](https://docs.github.com/en/codespaces/overview)
-2. Log into your Github account
-3. Open this repository and click the green "Code" button
-4. Select the Codespaces tab. If you don't see this tab (see image below) then enable the CodeSpaces feature in your Github settings. 
-5. Click the "Create Codespaces on Main" button 
+2. Open this repository and click the green "Code" button
+3. Select the Codespaces tab. If you don't see this tab (see image below), then make sure the CodeSpaces feature is enabled in your Github account settings. 
+4. Click the "Create Codespaces on Main" button 
 
     ![Image](images/CreateCodespace.jpg)
 
