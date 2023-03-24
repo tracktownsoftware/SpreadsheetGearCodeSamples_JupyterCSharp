@@ -4,7 +4,7 @@
 
 These code samples have been tested in [Visual Studio Code (VSCode)](https://code.visualstudio.com/) for Windows, Linux and MacOS.
 
-Microsoft uses the term [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) for Jupyter Notebooks that use the .NET Interactive kernel. In addition to C#, Polyglot Notebooks support additional languages such as F#, Powershell, Javascript, HTML Mermaid and SQL. 
+Microsoft uses the term [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) for Jupyter Notebooks that use the .NET Interactive kernel. In addition to C#, Polyglot Notebooks support additional languages such as F#, Powershell, Javascript, HTML, Mermaid and SQL. 
 
 See [SpreadsheetGear code samples for Python in Jupyter Notebooks](https://github.com/tracktownsoftware/SpreadsheetGearCodeSamples_JupyterPython) for Jupyter Notebooks that use the Python kernel. 
 
