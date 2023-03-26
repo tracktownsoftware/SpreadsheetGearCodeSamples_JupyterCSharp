@@ -12,11 +12,14 @@
 7. Keep in mind Github free accounts only allow 2 Codespaces. You can delete and create Codespaces for repos as needed.  
 
 
-## Open a Github Codespace for this repo in your local VSCode editor (no other install required) ##
-1. Once you have an existing Github Codespace (see previous option), you can choose to open it in the browser or your local installed VSCode editor.
+## Open a Github Codespace for this repo in your local VSCode editor (only requires the VSCode extension Github Codespaces) ##
+1. Once you have an existing Github Codespace (see previous option), you can choose to open it in your local installed VSCode editor.
 
     ![Image](images/OpenCodespace.jpg)
 
+2. If not already installed, you will be prompted to install extension *Github Codespaces* into your local VSCode.
+
+    ![Image](images/ExtensionGithubCodespace.jpg)
 
 ## Clone this repo and use its DevContainer configuration in your local VSCode editor (Docker Desktop required to host the DevContainer) ##
 1. [VSCode DevContainer Overview](https://code.visualstudio.com/docs/devcontainers/create-dev-container)
