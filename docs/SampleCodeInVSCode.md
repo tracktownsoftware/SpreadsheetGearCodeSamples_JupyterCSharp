@@ -18,5 +18,5 @@
 
 ## Clone this repo and use its DevContainer configuration in your local VSCode editor (Docker Desktop required to host the DevContainer) ##
 1. [VSCode DevContainer Overview](https://code.visualstudio.com/docs/devcontainers/create-dev-container)
-2. You will need to install Docker Desktop on your local machine to host the Docker DevContainer.
+2. You will need to [install Docker Desktop](https://docs.docker.com/get-docker/) on your local machine to host the Docker DevContainer.
 ## Clone this repo and use your local Visual Studio Code editor with all requirements installed. ##
