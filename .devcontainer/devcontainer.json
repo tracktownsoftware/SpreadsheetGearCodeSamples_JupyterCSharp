@@ -26,7 +26,6 @@
 		  // Add the IDs of extensions you want installed when the container is created.
 		  "extensions": [
 			"ms-dotnettools.csharp",
-			"ms-vscode-remote.remote-containers",
 			"ms-toolsai.jupyter",
 			"ms-dotnettools.dotnet-interactive-vscode"
 		  ]
