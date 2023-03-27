@@ -31,7 +31,7 @@
 
     ![Image](images/ReopenInContainer.jpg)
 
-7. If you don't see the VSCode notification to "Reopen In Container", you can run the "Dev Containers: Open Folder in Container..." command from the Command Palette (F1) or quick actions Status bar item. 
+7. If you don't see the VSCode notification to "Reopen in Container", you can run the "Dev Containers: Open Folder in Container..." command from the Command Palette (F1) or quick actions Status bar item. 
 
     ![Image](images/CommandPallette_ReopenInContainer.jpg)
 
