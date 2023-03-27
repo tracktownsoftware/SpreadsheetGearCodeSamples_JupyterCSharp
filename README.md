@@ -12,7 +12,7 @@ See [SpreadsheetGear code samples for Python in Jupyter Notebooks](https://githu
 ## Minimal install options to view and run code samples in Visual Studio Code ##
 - [Open a Github Codespace for this repo in a browser based VSCode editor (No install required)](./docs/SampleCodeInVSCode.md#open-a-github-codespace-for-this-repo-in-a-browser-based-vscode-editor-no-install-required)
 - [Open a Github Codespace for this repo in your local VSCode editor (only requires the VSCode extension Github Codespaces)](./docs/SampleCodeInVSCode.md#open-a-github-codespace-for-this-repo-in-your-local-vscode-editor-only-requires-the-vscode-extension-github-codespaces)
-- [Clone this repo and use its DevContainer configuration in your local VSCode editor (Docker Desktop required to host the DevContainer)](./docs/SampleCodeInVSCode.md#clone-this-repo-and-use-its-devcontainer-configuration-in-your-local-vscode-editor-docker-desktop-required-to-host-the-devcontainer)
+- [Clone this repo and use its DevContainer configuration in your local VSCode editor (Docker Desktop required to host the DevContainer)](./docs/SampleCodeInVSCode.md#clone-this-repo-and-use-its-devcontainer-configuration-in-your-local-vscode-editor-requires-docker-desktop-and-vscode-dev-containers-extension)
 
 ## Clone this repo and open in your local VSCode editor (Install all requirements) ##
 
