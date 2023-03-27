@@ -10,9 +10,9 @@ See [SpreadsheetGear code samples for Python in Jupyter Notebooks](https://githu
 *   **[SpreadsheetGear Engine for .NET](https://www.nuget.org/packages/SpreadsheetGear/9.1.44-beta)** - A Nuget package that is the primary SpreadsheetGear library and provides a core set of APIs to read, write, manipulate and calculate workbooks, build charts, format worksheets and cells, and more. Learn more about SpreadsheetGear products on its [Features Page](https://www.spreadsheetgear.com/Products/Features) and [Comparison Page](https://www.spreadsheetgear.com/Products/Compare).
 
 ## Minimal install options to view and run code samples in Visual Studio Code ##
-- [Open a Github Codespace for this repo in a browser based VSCode editor (No install required)](./docs/SampleCodeInVSCode.md#open-a-github-codespace-in-a-browser-based-vscode-editor-no-install-required)
-- [Open a Github Codespace for this repo in your local VSCode editor (only requires the VSCode extension Github Codespaces)](./docs/SampleCodeInVSCode.md#open-a-github-codespace-in-your-local-vscode-editor-no-other-install-required)
-- [Clone this repo and use its DevContainer configuration in your local VSCode editor (Docker Desktop required to host the DevContainer)](./docs/SampleCodeInVSCode.md#clone-this-repo-and-use-its-devcontainer-configuration-in-your-local-vscode-editor-docker-desktop-install-required-to-host-the-devcontainer)
+- [Open a Github Codespace for this repo in a browser based VSCode editor (No install required)](./docs/SampleCodeInVSCode.md#open-a-github-codespace-for-this-repo-in-a-browser-based-vscode-editor-no-install-required)
+- [Open a Github Codespace for this repo in your local VSCode editor (only requires the VSCode extension Github Codespaces)](./docs/SampleCodeInVSCode.md#open-a-github-codespace-for-this-repo-in-your-local-vscode-editor-only-requires-the-vscode-extension-github-codespaces)
+- [Clone this repo and use its DevContainer configuration in your local VSCode editor (Docker Desktop required to host the DevContainer)](./docs/SampleCodeInVSCode.md#clone-this-repo-and-use-its-devcontainer-configuration-in-your-local-vscode-editor-docker-desktop-required-to-host-the-devcontainer)
 
 ## Clone this repo and open in your local VSCode editor (Install all requirements) ##
 
