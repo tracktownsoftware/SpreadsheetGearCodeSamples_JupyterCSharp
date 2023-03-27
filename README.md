@@ -18,7 +18,7 @@ See [SpreadsheetGear code samples for Python in Jupyter Notebooks](https://githu
 
 *There is no need to install this list of requirements if using one of the [minimal install options](#minimal-install-options-to-run-code-samples-in-visual-studio-code).*
 
-*These instructions should work for Windows, MacOS and Linux*
+*These instructions are for SpreadsheetGear code samples for C# in Jupyter Notebooks and should work for Windows, MacOS and Linux*
 
 1. From [Download .NET](https://dotnet.microsoft.com/en-us/download)
     - Install the .NET 7.0 SDK - *Required for .NET Extension Pack for Visual Studio Code. SpreadsheetGear works with .NET SDK version 6.0 and later*
