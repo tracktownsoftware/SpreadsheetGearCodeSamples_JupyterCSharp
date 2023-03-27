@@ -1,4 +1,4 @@
-# Minimal install options to view and run code samples in Visual Studio Code #
+# Minimal install options to view and run SpreadsheetGear code samples in Visual Studio Code #
 
 ## Open a Github Codespace for this repo in a browser based VSCode editor (no install required) ##
 1. [Github Codespaces Overview](https://docs.github.com/en/codespaces/overview)
@@ -25,4 +25,4 @@
 1. [VSCode DevContainer Overview](https://code.visualstudio.com/docs/devcontainers/create-dev-container)
 2. You will need to [install Docker Desktop](https://docs.docker.com/get-docker/) on your local machine to host the Docker DevContainer.
 3. Clone this repo into your target folder.
-## Clone this repo and use your local Visual Studio Code editor with all requirements installed. ##
+
