@@ -12,7 +12,7 @@
 7. Github free accounts only allow you 2 free Codespaces, but you can create and delete Codespaces as needed.  
 
 
-## Open a Github Codespace for this repo in your local VSCode editor (only requires the VSCode extension Github Codespaces) ##
+## Open a Github Codespace for this repo in your local VSCode editor (requires the VSCode extension Github Codespaces) ##
 1. Once you have an existing Github Codespace ([see previous option](#open-a-github-codespace-for-this-repo-in-a-browser-based-vscode-editor-no-install-required)), you can choose to open it in your local installed VSCode editor.
 
     ![Image](images/OpenCodespace.jpg)
