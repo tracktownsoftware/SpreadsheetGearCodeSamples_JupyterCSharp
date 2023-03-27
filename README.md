@@ -16,7 +16,7 @@ See [SpreadsheetGear code samples for Python in Jupyter Notebooks](https://githu
 
 ## Install all requirements and run code samples from this repo in Visual Studio Code ##
 
-*There is no need to install this list of requirements if using one of the [minimal install options](#minimal-install-options-to-view-and-run-spreadsheetgear-code-samples-in-visual-studio-code).*
+*There is no need to install this list of requirements if using one of the [minimal install options](#minimal-install-options-to-run-code-samples-from-this-repo-in-visual-studio-code).*
 
 *These instructions should work for Windows, MacOS and Linux*
 
