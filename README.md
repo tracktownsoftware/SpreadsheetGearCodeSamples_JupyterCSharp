@@ -27,5 +27,4 @@ See [SpreadsheetGear code samples for Python in Jupyter Notebooks](https://githu
 2. Install [Visual Studio Code](https://code.visualstudio.com/)
 3. Install [.NET Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack)
     - Ignore the "Getting Started with .NET" prompt to "Install .NET SDK". You already installed it in step 1.
-4. Install [Git version control](https://git-scm.com/download)
- VSCode.
+
