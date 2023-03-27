@@ -26,8 +26,8 @@
 2. Install [Docker Desktop](https://docs.docker.com/get-docker/) on your local machine to host the Docker Dev Container.
 3. Install the [Visual Studio Code Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension
 4. Clone this repo into your target folder.
-5. Launch VSCode and use its "Open Folder..." to open the local folder for this repo.
-6. If the VSCode Dev Container extension is installed, VSCode will detect a .devcontainer folder exists and display a notification to "Reopen in Container". Go ahead and click this button.
+5. Launch VSCode and use its "Open Folder..." to open the local target folder for this repo.
+6. If the Dev Containers extension is installed, VSCode will detect a .devcontainer folder exists and display a notification to "Reopen in Container". Go ahead and click this button.
 
     ![Image](images/ReopenInContainer.jpg)
 
