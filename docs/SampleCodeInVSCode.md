@@ -8,7 +8,7 @@
 
     ![Image](images/CreateCodespace.jpg)
 
-6. You will see your new Codespace for this repo load into a browser based Visual Studio Code editor. Wait a few more minutes as required VSCode extensions are downloaded and installed. You will not see this setup delay when opening an existing Codespace.
+6. You will see your new Codespace for this repo load into a browser based Visual Studio Code editor. Wait a few more minutes as required VSCode extensions are downloaded and installed (you will not see this delay when opening an existing Codespace).
 7. Keep in mind Github free accounts only allow 2 Codespaces. You can delete and create Codespaces for repos as needed.  
 
 
