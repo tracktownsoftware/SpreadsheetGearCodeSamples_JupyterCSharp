@@ -13,7 +13,7 @@
 
 
 ## Open a Github Codespace for this repo in your local VSCode editor (only requires the VSCode extension Github Codespaces) ##
-1. Once you have an existing Github Codespace (see previous option), you can choose to open it in your local installed VSCode editor.
+1. Once you have an existing Github Codespace ([see previous option](#open-a-github-codespace-for-this-repo-in-a-browser-based-vscode-editor-no-install-required)), you can choose to open it in your local installed VSCode editor.
 
     ![Image](images/OpenCodespace.jpg)
 
