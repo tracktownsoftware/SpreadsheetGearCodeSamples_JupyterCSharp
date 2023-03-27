@@ -22,7 +22,7 @@
     ![Image](images/ExtensionGithubCodespace.jpg)
 
 ## Clone this repo and open a local DevContainer in your VSCode editor (requires Docker Desktop and VSCode Dev Containers extension) ##
-1. [VSCode Dev Containers Tutorial](https://code.visualstudio.com/docs/devcontainers/tutorial)
+1. [VSCode Dev Containers Overview](https://code.visualstudio.com/docs/devcontainers/containers)
 2. Install [Docker Desktop](https://docs.docker.com/get-docker/) on your local machine to host the Docker Dev Container.
 3. Install the [Visual Studio Code Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension
 4. Clone this repo into your target folder.
