@@ -22,8 +22,16 @@
     ![Image](images/ExtensionGithubCodespace.jpg)
 
 ## Clone this repo and use its DevContainer configuration in your local VSCode editor (requires Docker Desktop and VSCode Dev Containers extension) ##
-1. [VSCode DevContainer Overview](https://code.visualstudio.com/docs/devcontainers/create-dev-container)
+1. [VSCode Dev Containers Tutorial](https://code.visualstudio.com/docs/devcontainers/tutorial)
 2. Install [Docker Desktop](https://docs.docker.com/get-docker/) on your local machine to host the Docker Dev Container.
 3. Install the [Visual Studio Code Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension
 4. Clone this repo into your target folder.
+5. Launch VSCode and use its "Open Folder..." to open the local folder for this repo.
+6. If the VSCode Dev Container extension is installed, VSCode will detect a .devcontainer folder exists and display a notification to "Reopen in Container". Go ahead and click this button.
+
+    ![Image](images/ReopenInContainer.jpg)
+
+7. If you don't see the VSCode notification to "Reopen In Container", you can run the "Dev Containers: Open Folder in Container..." command from the Command Palette (F1) or quick actions Status bar item. 
+
+    ![Image](images/COmmandPallette_ReopenInContainer.jpg)
 
